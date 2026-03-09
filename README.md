@@ -1,5 +1,5 @@
 # 📝 Nxo-Launcher-Tool
-‼️NOCH IN DERBATER‼️
+‼️NOCH IN DER BATER‼️
 
 ‼️Wichtig Gerete die ein Modcip brauchen bei den Funktioniert es NICHT‼️
 
