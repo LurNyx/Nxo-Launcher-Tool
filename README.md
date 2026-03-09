@@ -3,7 +3,7 @@
 
 ‼️Wichtig Gerete die ein Modcip brauchen bei den Funktioniert es NICHT‼️
 
-‼️Wichtig Nxo-Launcher nur für windos‼️
+‼️Wichtig Nxo-Launcher nur für windows‼️
 
  ✅ Unpatcher - CFW ohne Modcip ✅
 
