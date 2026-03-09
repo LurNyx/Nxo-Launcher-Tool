@@ -9,4 +9,9 @@
   ✅ Support Discord
   ✅ Rufus
   ✅ TegraRcmGUI
+  ✅ NiklasCFW Pack
+  ✅ Ohne Modcip
+  ✅ Switch CFW Checker
+  ✅ Einfach/Schnell
+  
   ♻️☑️✔️📖📝
