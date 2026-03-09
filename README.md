@@ -32,3 +32,4 @@
     - NiklasCFW
     - OmniNX
 # 🤨 Keine Anung fom Jailbreaken!
+Nicht schlim einfach die sd karte raus zihen und in den pc ein steken softwer starten und dan fertig 
