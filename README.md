@@ -12,6 +12,6 @@
   ✅ NiklasCFW Pack
   ✅ Ohne Modcip
   ✅ Switch CFW Checker
-  ✅ Einfach/Schnell
+  ✅ Einfach/Schnell ✅
   
   ♻️☑️✔️📖📝
