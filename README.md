@@ -11,7 +11,7 @@
   ✅ TegraRcmGUI
   ✅ NiklasCFW Pack
   ✅ Ohne Modcip
-  ✅ Switch CFW Checker
+  ✅ Switch CFW Checker ✅
   
   ✅ Einfach/Schnell ✅
   
