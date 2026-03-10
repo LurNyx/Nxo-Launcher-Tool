@@ -43,4 +43,7 @@ Nicht schlim einfach die sd karte raus zihen und in den pc ein steken softwer st
 ❌ Robotik (SupportAssist)
 ❌ Switch CFW Checker 
 ❌ Support Discord
+✅ Sprachen Auswal
+✅ Laufwerk Erkennung
+✅ Packs (Funkzonirt halb)
 
