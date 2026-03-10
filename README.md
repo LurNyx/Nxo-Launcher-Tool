@@ -15,7 +15,7 @@
   ✅ Support Discord
   ✅ Rufus
   ✅ TegraRcmGUI
-  ✅ NiklasCFW Pack
+  ✅ NiklasCFW/OmniNX Pack
   ✅ Ohne Modcip
   ✅ Switch CFW Checker ✅
   
