@@ -45,5 +45,5 @@ Nicht schlim einfach die sd karte raus zihen und in den pc ein steken softwer st
 ❌ Support Discord
 ✅ Sprachen Auswal
 ✅ Laufwerk Erkennung
-✅ Packs (Funkzonirt halb)
+✅ Packs (Funktioniert halb)
 
