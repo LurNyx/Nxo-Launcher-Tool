@@ -54,6 +54,8 @@ Dan brauch man noch ein daten übertragens kabel
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/99afe81a-da91-4cd0-b99c-0fb898387a58" />
 
+und eine sd karte
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1743f2e5-240b-4488-9ab7-5b40a8f466a1" />
 
 
