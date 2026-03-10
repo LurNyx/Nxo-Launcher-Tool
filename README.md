@@ -35,7 +35,7 @@
 # 🤨 Keine Anung fom Jailbreaken!
 Nicht schlim einfach die sd karte raus zihen und in den pc ein steken softwer starten und dan fertig 
 
-bxsfdddddddddduuuuuu
+bxsfdddddddddduuuuuuooooooooo
 ttttttttttt
 <img width="510" height="608" alt="{7F09C2CD-FC96-43CF-9E3F-3A0F30F97BCA}" src="https://github.com/user-attachments/assets/86fe255f-783c-4b4b-bfc7-bcebc58690e7" />
 
