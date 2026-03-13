@@ -51,6 +51,7 @@ Dan brauch man noch ein daten übertragens kabel
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/99afe81a-da91-4cd0-b99c-0fb898387a58" />
 
 https://amzn.eu/d/09VFrQ8j
+
 und eine sd karte
 
 ❗Wichtig es mus ein A2 oder A3 sd karte keine A1❗
