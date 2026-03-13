@@ -48,9 +48,9 @@ alt="{7F09C2CD-FC96-43CF-9E3F-3A0F30F97BCA}" src="https://github.com/user-attach
 
 Dan brauch man noch ein daten übertragens kabel
 
+<a href="https://amzn.eu/d/09VFrQ8j">
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/99afe81a-da91-4cd0-b99c-0fb898387a58" />
-
-https://amzn.eu/d/09VFrQ8j
+</a>
 
 und eine sd karte
 
