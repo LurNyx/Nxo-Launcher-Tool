@@ -66,6 +66,9 @@ und eine sd karte
 ❌ Robotik (SupportAssist)
 ❌ Switch CFW Checker 
 ❌ Support Discord
+
+# Nestes Updast
+
 ✅ Sprachen Auswal
 ✅ Laufwerk Erkennung
 ✅ Packs (Funktioniert halb)
