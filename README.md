@@ -67,9 +67,8 @@ und eine sd karte
 ❌ Switch CFW Checker 
 ❌ Support Discord
 
-# Nestes Updast
-
 ✅ Sprachen Auswal
 ✅ Laufwerk Erkennung
 ✅ Packs (Funktioniert halb)
 
+# Nestes Updast
