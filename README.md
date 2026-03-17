@@ -71,4 +71,4 @@ und eine sd karte
 ✅ Laufwerk Erkennung
 ✅ Packs (Funktioniert halb)
 
-# Nestes Updast
+# Nestes Updast 6.7 Beta
