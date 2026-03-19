@@ -73,6 +73,4 @@ und eine sd karte
 
 # Nestes Updast 6.7 Beta
 
-✅ Verfügbar 
-
-Dise Updat solt eigentlich ein ferler beheben Jetzt ist aber noch ein ferler auf getreten deswegen kann die softwer auf manchen Pc nicht ausge fürt werden. Ein updat das die beiden feler behebt ist bereits in beabeitung 😊
+✅ Verfügbar 😊
