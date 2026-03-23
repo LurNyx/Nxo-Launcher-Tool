@@ -73,6 +73,6 @@ und eine sd karte
 ✅ Laufwerk Erkennung
 ✅ Packs (Funktioniert halb)
 
-# Nestes Updast 6.8 Beta
+# Nestes Updast 6.9 Beta
 
 ✅ Ist in bearbeitung 😊
