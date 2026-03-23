@@ -48,7 +48,7 @@ width="510" height="608"
 alt="{7F09C2CD-FC96-43CF-9E3F-3A0F30F97BCA}" src="https://github.com/user-attachments/assets/86fe255f-783c-4b4b-bfc7-bcebc58690e7" />
 </a>
 
-Dan brauch man noch ein daten übertragens kabel
+Dann brauch man noch ein daten übertragens kabel
 
 <a href="https://amzn.eu/d/09VFrQ8j">
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/99afe81a-da91-4cd0-b99c-0fb898387a58" />
@@ -56,8 +56,8 @@ Dan brauch man noch ein daten übertragens kabel
 
 und eine sd karte
 
-❗Wichtig es mus ein A2 oder A3 sd karte keine A1❗
-🤔 Emfelung die sd karte solt 512GB haben 🤔
+❗Wichtig es muss ein A2 oder A3 sd karte keine A1❗
+🤔 Emfehlung die sd karte solte 512GB haben 🤔
 
 
 <a href="https://www.amazon.de/Samsung-microSD-Karte-SD-Adapter-Speicherkarte-MB-ME512SA/dp/B0CVBD37D9/ref=sr_1_12?crid=3D9CJMG36OFK&dib=eyJ2IjoiMSJ9.G_SLhiAqbihU2PGk9fbVxmYshoWzD5XiCKYJpgOGhokETstkBIiWWbgTeHaXKdsRtOsLqg9p4VjB7w97NAJ-5gp7oCDKoYVUQ_Lo4dXKnDBT6N8oG-rFe5-SBnvKBV4SYu88c3SElFX2jSCLl57hWL2qXePP0FZjOlu6RaUGdO6TUVgLQDhXv907mGAajIFiVgb-uOSgb1lvNDUBcBffloZFdwfz_rtAuzV0ntiqGPo.7OpNOuIveA258TqqfFh5Al-Qrklm_Jf0wEdPle8GPNs&dib_tag=se&keywords=512gb%2Bmicro%2Bsd%2Bcard&qid=1773168325&sprefix=512%2Caps%2C128&sr=8-12&th=1">
@@ -69,7 +69,7 @@ und eine sd karte
 ❌ Switch CFW Checker 
 ❌ Support Discord
 
-✅ Sprachen Auswal
+✅ Sprachen Auswahl
 ✅ Laufwerk Erkennung
 ✅ Packs (Funktioniert halb)
 
