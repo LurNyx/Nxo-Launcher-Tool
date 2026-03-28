@@ -66,7 +66,7 @@ und eine sd-karte.
 
 # 👾 (BETA ENTHÄLT) 👾
 ❌ Robotik (SupportAssist)
-❌ Switch CFW Checker 
+✅ Switch CFW Checker 
 ❌ Support Discord
 
 ✅ Sprachen Auswahl
